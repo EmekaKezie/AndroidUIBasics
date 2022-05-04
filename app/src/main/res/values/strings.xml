@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Learning Android</string>
+    <string-array name="courses">
+        <item>Microsoft SQL Server</item>
+        <item>Csharp.NET</item>
+        <item>PHP Yii</item>
+        <item>MySql Server</item>
+    </string-array>
+    <string name="hello">Hello</string>
+
+    <string name="menu_setting">Settings</string>
+    <string name="menu_alarm">Alarm</string>
+</resources>
